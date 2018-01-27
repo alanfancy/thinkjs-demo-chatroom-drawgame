@@ -1,0 +1,16 @@
+{
+  "apps": [{
+    "name": "D:xampphtdocsworkspacethinkjsD:xampphtdocsworkspacethinkjsqitian_wx",
+    "script": "www/production.js",
+    "cwd": "D:\xampp\htdocs\workspace\thinkjs\qitian_wx",
+    "exec_mode": "cluster",
+    "instances": 0,
+    "max_memory_restart": "1G",
+    "autorestart": true,
+    "node_args": [],
+    "args": [],
+    "env": {
+      
+    }
+  }]
+}
