@@ -1,26 +1,13 @@
-﻿
-Application created by [ThinkJS](http://www.thinkjs.org)
+﻿本文件下的程序为半成品，目的在于验证技术，请勿直接用于开发生产！
 
-## Install dependencies
+thinkjs-demo-登陆+你画我猜+聊天室
 
 ```
 npm install
 ```
 
-## Start server
-
-```
-npm start  http://192.168.0.78:8360/login```
-
-## Deploy with pm2
-
-Use pm2 to deploy app on production enviroment.
-
-```
-pm2 startOrReload pm2.json
-```
-
 ```
 运行前修改IP   www/static/js/socketEvent.js
+
              src/common/config/config.js
 ```
