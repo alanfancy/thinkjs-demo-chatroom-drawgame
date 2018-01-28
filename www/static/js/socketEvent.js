@@ -1,4 +1,4 @@
-core.socket=io('ws://192.168.0.78:8360');
+core.socket=io('ws://127.0.0.1:8360');
 core.socket.on('connect',function(){
     console.log('已连接');
     // socket.emit('adduser', _username);

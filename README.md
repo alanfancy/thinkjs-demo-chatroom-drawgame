@@ -7,7 +7,13 @@ npm install
 ```
 
 ```
-运行前修改IP   www/static/js/socketEvent.js
+运行前如需修改IP
 
-             src/common/config/config.js
+www/static/js/socketEvent.js
+
+src/common/config/config.js
+
 ```
+
+测试账号：13412345678
+密码：123456
